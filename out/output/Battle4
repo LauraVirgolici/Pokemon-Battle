@@ -1,0 +1,162 @@
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Pikachu vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Pikachu
+HP=35, normalAttack=null, specialAttack=4, defense=2, specialDefense=3
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=4, stun=true, dodge=true, cd=5}
+
+
+-------DESCRIERE PLAYER2:-------
+Vulpix
+HP=36, normalAttack=8, specialAttack=null, defense=2, specialDefense=4
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+
+------------------------------------------------------------------------------------
+Pikachu ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 34, Ability 2, cooldown 5
+Pikachu se fereste.
+Pikachu ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 30, Ability 1, cooldown 4, Ability 2, cooldown 4
+Vulpix este inghetat.
+Pikachu ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 30, Ability 1, cooldown 3, Ability 2, cooldown 3
+Vulpix ataca Pikachu cu Ability 1    ===>    Rezultat: Pikachu'HP= 29, Ability 1, cooldown 6
+Vulpix ataca Pikachu cu Attack    ===>    Rezultat: Pikachu'HP= 23, Ability 1, cooldown 5
+Pikachu este inghetat.
+Pikachu ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 30, Ability 1, cooldown 2, Ability 2, cooldown 2
+Vulpix ataca Pikachu cu Attack    ===>    Rezultat: Pikachu'HP= 17, Ability 1, cooldown 4
+Pikachu ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 30, Ability 1, cooldown 1, Ability 2, cooldown 1
+Vulpix ataca Pikachu cu Ability 2    ===>    Rezultat: Pikachu'HP= 17, Ability 2, cooldown 7, Ability 1, cooldown 3
+Vulpix se fereste.
+Vulpix ataca Pikachu cu Attack    ===>    Rezultat: Pikachu'HP= 11, Ability 1, cooldown 2, Ability 2, cooldown 6
+Pikachu ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 30, Ability 1, cooldown 0, Ability 2, cooldown 0
+Vulpix ataca Pikachu cu Attack    ===>    Rezultat: Pikachu'HP= 5, Ability 1, cooldown 1, Ability 2, cooldown 5
+Pikachu ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 30
+Vulpix ataca Pikachu cu Attack    ===>    Rezultat: Pikachu'HP= -1, Ability 1, cooldown 0, Ability 2, cooldown 4
+Pikachu a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=37, normalAttack=9, specialAttack=null, defense=3, specialDefense=5
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Psyduck vs Snorlax]=========================
+-------DESCRIERE PLAYER1:--------
+Psyduck
+HP=43, normalAttack=6, specialAttack=null, defense=3, specialDefense=3
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+-------DESCRIERE PLAYER2:-------
+Snorlax
+HP=62, normalAttack=6, specialAttack=null, defense=6, specialDefense=4
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+
+------------------------------------------------------------------------------------
+Psyduck ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 62, Ability 2, cooldown 5
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 40
+Psyduck ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 4, Ability 2, cooldown 4
+Snorlax este inghetat.
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 3, Ability 2, cooldown 3
+Snorlax ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 40, Ability 2, cooldown 5
+Snorlax se fereste.
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 37, Ability 2, cooldown 4
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 2, Ability 2, cooldown 2
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 34, Ability 2, cooldown 3
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 1, Ability 2, cooldown 1
+Snorlax ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 33, Ability 1, cooldown 5, Ability 2, cooldown 2
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 30, Ability 1, cooldown 4, Ability 2, cooldown 1
+Psyduck este inghetat.
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 0, Ability 2, cooldown 0
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 27, Ability 1, cooldown 3, Ability 2, cooldown 0
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 24, Ability 1, cooldown 2
+Psyduck ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 62, Ability 2, cooldown 5
+Snorlax ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 24, Ability 2, cooldown 5, Ability 1, cooldown 1
+Snorlax se fereste.
+Snorlax este inghetat.
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 2, cooldown 4
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 21, Ability 1, cooldown 0, Ability 2, cooldown 4
+Psyduck ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 4, Ability 2, cooldown 3
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 18, Ability 2, cooldown 3
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 3, Ability 2, cooldown 2
+Snorlax ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 17, Ability 1, cooldown 5, Ability 2, cooldown 2
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 14, Ability 1, cooldown 4, Ability 2, cooldown 1
+Psyduck este inghetat.
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 2, Ability 2, cooldown 1
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 11, Ability 1, cooldown 3, Ability 2, cooldown 0
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 1, Ability 2, cooldown 0
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 8, Ability 1, cooldown 2
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 0
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 5, Ability 1, cooldown 1
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62
+Snorlax ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 5, Ability 2, cooldown 5, Ability 1, cooldown 0
+Snorlax se fereste.
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 2, Ability 2, cooldown 4
+Psyduck ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 62
+Snorlax ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= -1, Ability 2, cooldown 3
+Psyduck a murit.
+CASTIGATOR: ====>  
+Snorlax
+HP=63, normalAttack=7, specialAttack=null, defense=7, specialDefense=5
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Charmander vs Jigglypuff]=========================
+-------DESCRIERE PLAYER1:--------
+Charmander
+HP=50, normalAttack=7, specialAttack=null, defense=3, specialDefense=2
+Ability1={dmg=4, stun=true, dodge=false, cd=4}
+Ability2={dmg=7, stun=false, dodge=false, cd=6}
+
+
+-------DESCRIERE PLAYER2:-------
+Jigglypuff
+HP=34, normalAttack=7, specialAttack=null, defense=2, specialDefense=3
+Ability1={dmg=4, stun=true, dodge=false, cd=4}
+Ability2={dmg=3, stun=true, dodge=false, cd=4}
+
+
+------------------------------------------------------------------------------------
+Charmander ataca Jigglypuff cu Ability 1    ===>    Rezultat: Jigglypuff'HP= 32, Ability 1, cooldown 4
+Jigglypuff ataca Charmander cu Ability 2    ===>    Rezultat: Charmander'HP= 50, Ability 2, cooldown 4
+Charmander este inghetat.
+Jigglypuff este inghetat.
+Charmander ataca Jigglypuff cu Ability 2    ===>    Rezultat: Jigglypuff'HP= 27, Ability 2, cooldown 6, Ability 1, cooldown 3
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 46, Ability 2, cooldown 3
+Charmander ataca Jigglypuff cu Attack    ===>    Rezultat: Jigglypuff'HP= 22, Ability 1, cooldown 2, Ability 2, cooldown 5
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 42, Ability 2, cooldown 2
+Charmander ataca Jigglypuff cu Attack    ===>    Rezultat: Jigglypuff'HP= 17, Ability 1, cooldown 1, Ability 2, cooldown 4
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 38, Ability 2, cooldown 1
+Charmander ataca Jigglypuff cu Attack    ===>    Rezultat: Jigglypuff'HP= 12, Ability 1, cooldown 0, Ability 2, cooldown 3
+Jigglypuff ataca Charmander cu Ability 1    ===>    Rezultat: Charmander'HP= 37, Ability 1, cooldown 4, Ability 2, cooldown 0
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 33, Ability 1, cooldown 3
+Charmander este inghetat.
+Charmander ataca Jigglypuff cu Attack    ===>    Rezultat: Jigglypuff'HP= 7, Ability 2, cooldown 2
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 29, Ability 1, cooldown 2
+Charmander ataca Jigglypuff cu Attack    ===>    Rezultat: Jigglypuff'HP= 2, Ability 2, cooldown 1
+Jigglypuff ataca Charmander cu Ability 2    ===>    Rezultat: Charmander'HP= 29, Ability 2, cooldown 4, Ability 1, cooldown 1
+Jigglypuff ataca Charmander cu Attack    ===>    Rezultat: Charmander'HP= 25, Ability 1, cooldown 0, Ability 2, cooldown 3
+Charmander este inghetat.
+Charmander ataca Jigglypuff cu Ability 1    ===>    Rezultat: Jigglypuff'HP= 0, Ability 1, cooldown 4, Ability 2, cooldown 0
+Jigglypuff a murit.
+CASTIGATOR: ====>  
+Charmander
+HP=51, normalAttack=8, specialAttack=null, defense=4, specialDefense=3
+Ability1={dmg=4, stun=true, dodge=false, cd=4}
+Ability2={dmg=7, stun=false, dodge=false, cd=6}
+
+
+CONCLUZIE:
+Red a castigat 2 de batalii
+Cynthia a castigat 1 de batalii
+
+------------------------Red A CASTIGAT------------------------

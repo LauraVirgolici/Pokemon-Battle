@@ -1,0 +1,9 @@
+Red 20
+Vulpix (Sword,Vest,Vitamins)
+Bulbasaur (Sword,Vest,Vitamins)
+Psyduck (Sword,Vest,Vitamins)
+
+Cynthia 21
+Squirtle (Vest)
+Snorlax (Sword)
+Bulbasaur (Cape)

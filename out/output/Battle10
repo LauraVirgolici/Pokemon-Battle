@@ -1,0 +1,832 @@
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Snorlax]=========================
+-------DESCRIERE PLAYER1:--------
+Snorlax
+HP=74, normalAttack=8, specialAttack=null, defense=6, specialDefense=4
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Snorlax ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 20, Ability 2, cooldown 5
+Snorlax se fereste.
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 13, Ability 2, cooldown 4
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 74
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 6, Ability 2, cooldown 3
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 74
+Snorlax ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 3, Ability 1, cooldown 5, Ability 2, cooldown 2
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 74
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -4, Ability 1, cooldown 4, Ability 2, cooldown 1
+Neutrel2 este inghetat.
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Snorlax
+HP=75, normalAttack=9, specialAttack=null, defense=7, specialDefense=5
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+
+=========================[Batalia Neutrel2 vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=52, normalAttack=null, specialAttack=5, defense=3, specialDefense=1
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 16, Ability 2, cooldown 3
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 51
+Bulbasaur ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 11, Ability 1, cooldown 4, Ability 2, cooldown 2
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 50
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 7, Ability 1, cooldown 3, Ability 2, cooldown 1
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 49
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 3, Ability 1, cooldown 2, Ability 2, cooldown 0
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 48
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -1, Ability 1, cooldown 1
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Bulbasaur
+HP=53, normalAttack=null, specialAttack=6, defense=4, specialDefense=2
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Snorlax]=========================
+-------DESCRIERE PLAYER1:--------
+Snorlax
+HP=75, normalAttack=9, specialAttack=null, defense=7, specialDefense=5
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Snorlax ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 17, Ability 1, cooldown 5
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 75
+Snorlax ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 17, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Neutrel2 este inghetat.
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 9, Ability 1, cooldown 3, Ability 2, cooldown 4
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 75
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 1, Ability 1, cooldown 2, Ability 2, cooldown 3
+Neutrel2 ataca Snorlax cu NormalAttack   ===>    Rezultat: Snorlax'HP= 75
+Snorlax ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -7, Ability 1, cooldown 1, Ability 2, cooldown 2
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Snorlax
+HP=76, normalAttack=10, specialAttack=null, defense=8, specialDefense=6
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+
+=========================[Batalia Neutrel2 vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=53, normalAttack=null, specialAttack=6, defense=4, specialDefense=2
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 15, Ability 1, cooldown 4
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 53
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 10, Ability 1, cooldown 3
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 53
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 5, Ability 1, cooldown 2
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 53
+Bulbasaur ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 1, Ability 2, cooldown 3, Ability 1, cooldown 1
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 53
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -4, Ability 1, cooldown 0, Ability 2, cooldown 2
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Bulbasaur
+HP=54, normalAttack=null, specialAttack=7, defense=5, specialDefense=3
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Snorlax vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Snorlax
+HP=76, normalAttack=10, specialAttack=null, defense=8, specialDefense=6
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+
+-------DESCRIERE PLAYER2:-------
+Bulbasaur
+HP=54, normalAttack=null, specialAttack=7, defense=5, specialDefense=3
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+
+------------------------------------------------------------------------------------
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 54, Ability 1, cooldown 5
+Bulbasaur ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 4
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 54, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 49, Ability 1, cooldown 3, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 3
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 44, Ability 1, cooldown 2, Ability 2, cooldown 3
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 39, Ability 1, cooldown 1, Ability 2, cooldown 2
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 76, Ability 2, cooldown 3, Ability 1, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 34, Ability 1, cooldown 0, Ability 2, cooldown 1
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 0, Ability 2, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 29, Ability 2, cooldown 0
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 2, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 24
+Bulbasaur ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 4, Ability 2, cooldown 0
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 24, Ability 1, cooldown 5
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 3
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 19, Ability 1, cooldown 4
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 19, Ability 2, cooldown 5, Ability 1, cooldown 3
+Snorlax se fereste.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 14, Ability 1, cooldown 2, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 76, Ability 2, cooldown 3, Ability 1, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 9, Ability 1, cooldown 1, Ability 2, cooldown 3
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 1, Ability 2, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 4, Ability 1, cooldown 0, Ability 2, cooldown 2
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 76, Ability 1, cooldown 0, Ability 2, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= -1, Ability 2, cooldown 1
+Bulbasaur a murit.
+CASTIGATOR: ====>  
+Snorlax
+HP=77, normalAttack=11, specialAttack=null, defense=9, specialDefense=7
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=42, normalAttack=null, specialAttack=5, defense=5, specialDefense=3
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 5, Ability 1, cooldown 4
+Neutrel1 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 42
+Bulbasaur ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 1, Ability 1, cooldown 3
+Neutrel1 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 42
+Bulbasaur ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= -3, Ability 2, cooldown 3, Ability 1, cooldown 2
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Bulbasaur
+HP=43, normalAttack=null, specialAttack=6, defense=6, specialDefense=4
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel1 vs Psyduck]=========================
+-------DESCRIERE PLAYER1:--------
+Psyduck
+HP=43, normalAttack=6, specialAttack=null, defense=3, specialDefense=3
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Psyduck ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 9, Ability 2, cooldown 5
+Neutrel1 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 43
+Psyduck ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 8, Ability 1, cooldown 4, Ability 2, cooldown 4
+Neutrel1 este inghetat.
+Psyduck ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 3, Ability 1, cooldown 3, Ability 2, cooldown 3
+Neutrel1 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 43
+Psyduck ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -2, Ability 1, cooldown 2, Ability 2, cooldown 2
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Psyduck
+HP=44, normalAttack=7, specialAttack=null, defense=4, specialDefense=4
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Bulbasaur vs Psyduck]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=43, normalAttack=null, specialAttack=6, defense=6, specialDefense=4
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+
+-------DESCRIERE PLAYER2:-------
+Psyduck
+HP=44, normalAttack=7, specialAttack=null, defense=4, specialDefense=4
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 42
+Psyduck ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 43, Ability 2, cooldown 5
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 43, Ability 1, cooldown 4, Ability 2, cooldown 4
+Bulbasaur este inghetat.
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 41, Ability 2, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 42, Ability 1, cooldown 3, Ability 2, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 39, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 41, Ability 1, cooldown 2, Ability 2, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 37, Ability 2, cooldown 1
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 40, Ability 1, cooldown 1, Ability 2, cooldown 1
+Bulbasaur ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 35, Ability 1, cooldown 4, Ability 2, cooldown 0
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 39, Ability 1, cooldown 0, Ability 2, cooldown 0
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 33, Ability 1, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 38
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 32, Ability 2, cooldown 3, Ability 1, cooldown 2
+Psyduck ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 38, Ability 2, cooldown 5
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 38, Ability 1, cooldown 4, Ability 2, cooldown 4
+Bulbasaur este inghetat.
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 30, Ability 1, cooldown 1, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 37, Ability 1, cooldown 3, Ability 2, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 28, Ability 1, cooldown 0, Ability 2, cooldown 1
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 36, Ability 1, cooldown 2, Ability 2, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 26, Ability 2, cooldown 0
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 35, Ability 1, cooldown 1, Ability 2, cooldown 1
+Bulbasaur ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 24, Ability 1, cooldown 4
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 34, Ability 1, cooldown 0, Ability 2, cooldown 0
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 23, Ability 2, cooldown 3, Ability 1, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 33
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 21, Ability 1, cooldown 2, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 32
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 19, Ability 1, cooldown 1, Ability 2, cooldown 1
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 32, Ability 1, cooldown 4
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 17, Ability 1, cooldown 0, Ability 2, cooldown 0
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 31, Ability 1, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 15
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 30, Ability 1, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 13
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 29, Ability 1, cooldown 1
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 12, Ability 2, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 28, Ability 1, cooldown 0
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 10, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 28, Ability 2, cooldown 5
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 27, Ability 2, cooldown 4
+Bulbasaur este inghetat.
+Bulbasaur ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 8, Ability 1, cooldown 4, Ability 2, cooldown 1
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 27, Ability 1, cooldown 4, Ability 2, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 6, Ability 1, cooldown 3, Ability 2, cooldown 0
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 26, Ability 1, cooldown 3, Ability 2, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 4, Ability 1, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 25, Ability 1, cooldown 2, Ability 2, cooldown 1
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 3, Ability 2, cooldown 3, Ability 1, cooldown 1
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 24, Ability 1, cooldown 1, Ability 2, cooldown 0
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 1, Ability 1, cooldown 0, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 23, Ability 1, cooldown 0
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= -1, Ability 2, cooldown 1
+Psyduck a murit.
+CASTIGATOR: ====>  
+Bulbasaur
+HP=44, normalAttack=null, specialAttack=7, defense=7, specialDefense=5
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=39, normalAttack=null, specialAttack=4, defense=3, specialDefense=3
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 7
+Neutrel1 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 39
+Eevee ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 3, Ability 1, cooldown 3
+Neutrel1 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 39
+Eevee ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 0, Ability 1, cooldown 2
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=40, normalAttack=null, specialAttack=5, defense=4, specialDefense=4
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel1 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=36, normalAttack=5, specialAttack=null, defense=4, specialDefense=6
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 9, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 2, Ability 1, cooldown 6, Ability 2, cooldown 6
+Neutrel1 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 36
+Vulpix ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -2, Ability 1, cooldown 5, Ability 2, cooldown 5
+Neutrel1 este inghetat.
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=37, normalAttack=6, specialAttack=null, defense=5, specialDefense=7
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=40, normalAttack=null, specialAttack=5, defense=4, specialDefense=4
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 18, Ability 2, cooldown 3
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 40
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 14, Ability 2, cooldown 2
+Neutrel2 este inghetat.
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 10, Ability 2, cooldown 1
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 40
+Eevee ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 6, Ability 1, cooldown 3, Ability 2, cooldown 0
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 40
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 2, Ability 1, cooldown 2
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 40
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -2, Ability 1, cooldown 1
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=41, normalAttack=null, specialAttack=6, defense=5, specialDefense=5
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel2 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=37, normalAttack=6, specialAttack=null, defense=5, specialDefense=7
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 19, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 12, Ability 1, cooldown 6, Ability 2, cooldown 6
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 37
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 7, Ability 1, cooldown 5, Ability 2, cooldown 5
+Neutrel2 este inghetat.
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 2, Ability 1, cooldown 4, Ability 2, cooldown 4
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 37
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -3, Ability 1, cooldown 3, Ability 2, cooldown 3
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=38, normalAttack=7, specialAttack=null, defense=6, specialDefense=8
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=41, normalAttack=null, specialAttack=6, defense=5, specialDefense=5
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 18, Ability 2, cooldown 3
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 41
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 13, Ability 2, cooldown 2
+Neutrel2 este inghetat.
+Eevee ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 9, Ability 1, cooldown 3, Ability 2, cooldown 1
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 41
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 4, Ability 1, cooldown 2, Ability 2, cooldown 0
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 41
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -1, Ability 1, cooldown 1
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=42, normalAttack=null, specialAttack=7, defense=6, specialDefense=6
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel2 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=38, normalAttack=7, specialAttack=null, defense=6, specialDefense=8
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 19, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 13, Ability 2, cooldown 6
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 38
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 7, Ability 2, cooldown 5
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 38
+Vulpix ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 0, Ability 1, cooldown 6, Ability 2, cooldown 4
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=39, normalAttack=8, specialAttack=null, defense=7, specialDefense=9
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=42, normalAttack=null, specialAttack=7, defense=6, specialDefense=6
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 18, Ability 2, cooldown 3
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 42
+Eevee ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 14, Ability 1, cooldown 3, Ability 2, cooldown 2
+Neutrel2 este inghetat.
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 8, Ability 1, cooldown 2, Ability 2, cooldown 1
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 42
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 2, Ability 1, cooldown 1, Ability 2, cooldown 0
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 42
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -4, Ability 1, cooldown 0
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=43, normalAttack=null, specialAttack=8, defense=7, specialDefense=7
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel2 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=39, normalAttack=8, specialAttack=null, defense=7, specialDefense=9
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 13
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 39
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 6
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 39
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -1
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=40, normalAttack=9, specialAttack=null, defense=8, specialDefense=10
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=43, normalAttack=null, specialAttack=8, defense=7, specialDefense=7
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 13
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 43
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 6
+Neutrel2 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 43
+Eevee ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -1
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=44, normalAttack=null, specialAttack=9, defense=8, specialDefense=8
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel2 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=40, normalAttack=9, specialAttack=null, defense=8, specialDefense=10
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 12
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 40
+Vulpix ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 11, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 4, Ability 1, cooldown 6, Ability 2, cooldown 6
+Neutrel2 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 40
+Vulpix ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -4, Ability 1, cooldown 5, Ability 2, cooldown 5
+Neutrel2 este inghetat.
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=41, normalAttack=10, specialAttack=null, defense=9, specialDefense=11
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=44, normalAttack=null, specialAttack=9, defense=8, specialDefense=8
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 6, Ability 1, cooldown 3
+Neutrel1 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 44
+Eevee ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -2, Ability 1, cooldown 2
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=45, normalAttack=null, specialAttack=10, defense=9, specialDefense=9
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel1 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=41, normalAttack=10, specialAttack=null, defense=9, specialDefense=11
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 3, Ability 1, cooldown 6
+Neutrel1 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 41
+Vulpix ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 2, Ability 2, cooldown 7, Ability 1, cooldown 5
+Vulpix se fereste.
+Neutrel1 este inghetat.
+Vulpix ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -7, Ability 1, cooldown 4, Ability 2, cooldown 6
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=42, normalAttack=11, specialAttack=null, defense=10, specialDefense=12
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=45, normalAttack=null, specialAttack=10, defense=9, specialDefense=9
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 8, Ability 2, cooldown 3
+Neutrel1 ataca Eevee cu NormalAttack   ===>    Rezultat: Eevee'HP= 45
+Eevee ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -1, Ability 2, cooldown 2
+Neutrel1 este inghetat.
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=46, normalAttack=null, specialAttack=11, defense=10, specialDefense=10
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel1 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=42, normalAttack=11, specialAttack=null, defense=10, specialDefense=12
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 9, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -1, Ability 2, cooldown 6
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=43, normalAttack=12, specialAttack=null, defense=11, specialDefense=13
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Eevee]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=46, normalAttack=null, specialAttack=11, defense=10, specialDefense=10
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Eevee ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 0
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Eevee
+HP=47, normalAttack=null, specialAttack=12, defense=11, specialDefense=11
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+=========================[Batalia Neutrel1 vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=43, normalAttack=12, specialAttack=null, defense=11, specialDefense=13
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Vulpix ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 9, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 2, Ability 1, cooldown 6, Ability 2, cooldown 6
+Neutrel1 ataca Vulpix cu NormalAttack   ===>    Rezultat: Vulpix'HP= 43
+Vulpix ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -9, Ability 1, cooldown 5, Ability 2, cooldown 5
+Neutrel1 este inghetat.
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=44, normalAttack=13, specialAttack=null, defense=12, specialDefense=14
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Eevee vs Vulpix]=========================
+-------DESCRIERE PLAYER1:--------
+Eevee
+HP=47, normalAttack=null, specialAttack=12, defense=11, specialDefense=11
+Ability1={dmg=5, stun=false, dodge=false, cd=3}
+Ability2={dmg=3, stun=true, dodge=false, cd=3}
+
+
+-------DESCRIERE PLAYER2:-------
+Vulpix
+HP=44, normalAttack=13, specialAttack=null, defense=12, specialDefense=14
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+
+------------------------------------------------------------------------------------
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44
+Vulpix ataca Eevee cu Ability 2    ===>    Rezultat: Eevee'HP= 47, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Eevee cu Ability 1    ===>    Rezultat: Eevee'HP= 47, Ability 1, cooldown 6, Ability 2, cooldown 6
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 45, Ability 1, cooldown 5, Ability 2, cooldown 5
+Eevee este inghetat.
+Eevee ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 3
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 43, Ability 1, cooldown 4, Ability 2, cooldown 4
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 2
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 41, Ability 1, cooldown 3, Ability 2, cooldown 3
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 39, Ability 1, cooldown 2, Ability 2, cooldown 2
+Eevee ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 3, Ability 1, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 37, Ability 1, cooldown 1, Ability 2, cooldown 1
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 2
+Vulpix este inghetat.
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 35, Ability 1, cooldown 0, Ability 2, cooldown 0
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 33
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 31
+Eevee ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 3
+Vulpix ataca Eevee cu Ability 2    ===>    Rezultat: Eevee'HP= 31, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 29, Ability 2, cooldown 6
+Eevee ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 3, Ability 1, cooldown 2
+Vulpix ataca Eevee cu Ability 1    ===>    Rezultat: Eevee'HP= 29, Ability 1, cooldown 6, Ability 2, cooldown 5
+Eevee este inghetat.
+Vulpix este inghetat.
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 1, Ability 2, cooldown 2
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 27, Ability 1, cooldown 5, Ability 2, cooldown 4
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 0, Ability 2, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 25, Ability 1, cooldown 4, Ability 2, cooldown 3
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 23, Ability 1, cooldown 3, Ability 2, cooldown 2
+Eevee ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 3
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 21, Ability 1, cooldown 2, Ability 2, cooldown 1
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 2
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 19, Ability 1, cooldown 1, Ability 2, cooldown 0
+Eevee ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 3, Ability 1, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 17, Ability 1, cooldown 0
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 0, Ability 2, cooldown 2
+Vulpix este inghetat.
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 1
+Vulpix ataca Eevee cu Ability 2    ===>    Rezultat: Eevee'HP= 17, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Eevee cu Ability 1    ===>    Rezultat: Eevee'HP= 17, Ability 1, cooldown 6, Ability 2, cooldown 6
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 15, Ability 1, cooldown 5, Ability 2, cooldown 5
+Eevee este inghetat.
+Eevee ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 3, Ability 2, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 13, Ability 1, cooldown 4, Ability 2, cooldown 4
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 2
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 11, Ability 1, cooldown 3, Ability 2, cooldown 3
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 9, Ability 1, cooldown 2, Ability 2, cooldown 2
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 1, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 7, Ability 1, cooldown 1, Ability 2, cooldown 1
+Eevee ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 3
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 5, Ability 1, cooldown 0, Ability 2, cooldown 0
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 2
+Vulpix este inghetat.
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 1
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 3
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44, Ability 2, cooldown 0
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= 1
+Eevee ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 44
+Vulpix ataca Eevee cu Attack    ===>    Rezultat: Eevee'HP= -1
+Eevee a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=45, normalAttack=14, specialAttack=null, defense=13, specialDefense=15
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+
+CONCLUZIE:
+Red a castigat 1 de batalii
+Cynthia a castigat 2 de batalii
+
+------------------------Cynthia A CASTIGAT------------------------

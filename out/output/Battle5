@@ -1,0 +1,301 @@
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Vulpix vs Squirtle]=========================
+-------DESCRIERE PLAYER1:--------
+Vulpix
+HP=48, normalAttack=10, specialAttack=null, defense=2, specialDefense=4
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+
+-------DESCRIERE PLAYER2:-------
+Squirtle
+HP=70, normalAttack=null, specialAttack=3, defense=5, specialDefense=5
+Ability1={dmg=4, stun=false, dodge=false, cd=3}
+Ability2={dmg=2, stun=true, dodge=false, cd=2}
+
+
+------------------------------------------------------------------------------------
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 65
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 49
+Vulpix ataca Squirtle cu Ability 2    ===>    Rezultat: Squirtle'HP= 65, Ability 2, cooldown 7
+Vulpix se fereste.
+Vulpix ataca Squirtle cu Ability 1    ===>    Rezultat: Squirtle'HP= 62, Ability 1, cooldown 6, Ability 2, cooldown 6
+Squirtle ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 49, Ability 2, cooldown 2
+Vulpix este inghetat.
+Squirtle este inghetat.
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 57, Ability 1, cooldown 5, Ability 2, cooldown 5
+Squirtle ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 47, Ability 1, cooldown 3, Ability 2, cooldown 1
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 52, Ability 1, cooldown 4, Ability 2, cooldown 4
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 48, Ability 1, cooldown 2, Ability 2, cooldown 0
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 47, Ability 1, cooldown 3, Ability 2, cooldown 3
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 49, Ability 1, cooldown 1
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 42, Ability 1, cooldown 2, Ability 2, cooldown 2
+Squirtle ataca Vulpix cu Ability 2    ===>    Rezultat: Vulpix'HP= 49, Ability 2, cooldown 2, Ability 1, cooldown 0
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 50, Ability 2, cooldown 1
+Vulpix este inghetat.
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 37, Ability 1, cooldown 1, Ability 2, cooldown 1
+Squirtle ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 48, Ability 1, cooldown 3, Ability 2, cooldown 0
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 32, Ability 1, cooldown 0, Ability 2, cooldown 0
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 49, Ability 1, cooldown 2
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 27
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 50, Ability 1, cooldown 1
+Vulpix ataca Squirtle cu Ability 1    ===>    Rezultat: Squirtle'HP= 24, Ability 1, cooldown 6
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 51, Ability 1, cooldown 0
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 19, Ability 1, cooldown 5
+Squirtle este inghetat.
+Vulpix ataca Squirtle cu Ability 2    ===>    Rezultat: Squirtle'HP= 19, Ability 2, cooldown 7, Ability 1, cooldown 4
+Vulpix se fereste.
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 14, Ability 1, cooldown 3, Ability 2, cooldown 6
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 52
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 9, Ability 1, cooldown 2, Ability 2, cooldown 5
+Squirtle ataca Vulpix cu Attack    ===>    Rezultat: Vulpix'HP= 53
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= 4, Ability 1, cooldown 1, Ability 2, cooldown 4
+Squirtle ataca Vulpix cu Ability 1    ===>    Rezultat: Vulpix'HP= 51, Ability 1, cooldown 3
+Vulpix ataca Squirtle cu Attack    ===>    Rezultat: Squirtle'HP= -1, Ability 1, cooldown 0, Ability 2, cooldown 3
+Squirtle a murit.
+CASTIGATOR: ====>  
+Vulpix
+HP=49, normalAttack=11, specialAttack=null, defense=3, specialDefense=5
+Ability1={dmg=8, stun=true, dodge=false, cd=6}
+Ability2={dmg=2, stun=false, dodge=true, cd=7}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Bulbasaur vs Snorlax]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=54, normalAttack=null, specialAttack=7, defense=3, specialDefense=1
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+
+-------DESCRIERE PLAYER2:-------
+Snorlax
+HP=62, normalAttack=6, specialAttack=null, defense=6, specialDefense=4
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 62, Ability 2, cooldown 3
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 53, Ability 1, cooldown 5
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 53, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 50, Ability 1, cooldown 3, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 62, Ability 1, cooldown 4, Ability 2, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 47, Ability 1, cooldown 2, Ability 2, cooldown 3
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 59, Ability 1, cooldown 3, Ability 2, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 44, Ability 1, cooldown 1, Ability 2, cooldown 2
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 56, Ability 1, cooldown 2, Ability 2, cooldown 0
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 41, Ability 1, cooldown 0, Ability 2, cooldown 1
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 53, Ability 1, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 38, Ability 2, cooldown 0
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 53, Ability 2, cooldown 3, Ability 1, cooldown 0
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 37, Ability 1, cooldown 5
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 37, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 34, Ability 1, cooldown 3, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 50, Ability 2, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 31, Ability 1, cooldown 2, Ability 2, cooldown 3
+Bulbasaur ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 50, Ability 1, cooldown 4, Ability 2, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 28, Ability 1, cooldown 1, Ability 2, cooldown 2
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 47, Ability 1, cooldown 3, Ability 2, cooldown 0
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 25, Ability 1, cooldown 0, Ability 2, cooldown 1
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 44, Ability 1, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 22, Ability 2, cooldown 0
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 41, Ability 1, cooldown 1
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 21, Ability 1, cooldown 5
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 21, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 18, Ability 1, cooldown 3, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 41, Ability 2, cooldown 3, Ability 1, cooldown 0
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 15, Ability 1, cooldown 2, Ability 2, cooldown 3
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 38, Ability 2, cooldown 2
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 12, Ability 1, cooldown 1, Ability 2, cooldown 2
+Bulbasaur ataca Snorlax cu Ability 1    ===>    Rezultat: Snorlax'HP= 38, Ability 1, cooldown 4, Ability 2, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 9, Ability 1, cooldown 0, Ability 2, cooldown 1
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 35, Ability 1, cooldown 3, Ability 2, cooldown 0
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 6, Ability 2, cooldown 0
+Bulbasaur ataca Snorlax cu Attack    ===>    Rezultat: Snorlax'HP= 32, Ability 1, cooldown 2
+Snorlax ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 5, Ability 1, cooldown 5
+Snorlax ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 5, Ability 2, cooldown 5, Ability 1, cooldown 4
+Snorlax se fereste.
+Bulbasaur este inghetat.
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 2, Ability 1, cooldown 3, Ability 2, cooldown 4
+Bulbasaur ataca Snorlax cu Ability 2    ===>    Rezultat: Snorlax'HP= 32, Ability 2, cooldown 3, Ability 1, cooldown 1
+Snorlax ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= -1, Ability 1, cooldown 2, Ability 2, cooldown 3
+Bulbasaur a murit.
+CASTIGATOR: ====>  
+Snorlax
+HP=63, normalAttack=7, specialAttack=null, defense=7, specialDefense=5
+Ability1={dmg=4, stun=true, dodge=false, cd=5}
+Ability2={dmg=0, stun=false, dodge=true, cd=5}
+
+############## ARENA A ALES BATALIA: Neutrel1 ##############
+
+=========================[Batalia Neutrel1 vs Psyduck]=========================
+-------DESCRIERE PLAYER1:--------
+Psyduck
+HP=55, normalAttack=8, specialAttack=null, defense=3, specialDefense=3
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Psyduck ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 9, Ability 1, cooldown 4
+Neutrel1 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 55
+Psyduck ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 8, Ability 2, cooldown 5, Ability 1, cooldown 3
+Neutrel1 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 55
+Psyduck ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= 1, Ability 1, cooldown 2, Ability 2, cooldown 4
+Neutrel1 este inghetat.
+Psyduck ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -6, Ability 1, cooldown 1, Ability 2, cooldown 3
+Neutrel1 a murit.
+CASTIGATOR: ====> 
+Psyduck
+HP=56, normalAttack=9, specialAttack=null, defense=4, specialDefense=4
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+=========================[Batalia Neutrel1 vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=42, normalAttack=null, specialAttack=5, defense=3, specialDefense=4
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel1
+HP=10, normalAttack=3, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Neutrel1 cu Ability 1    ===>    Rezultat: Neutrel1'HP= 5, Ability 1, cooldown 4
+Neutrel1 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 42
+Bulbasaur ataca Neutrel1 cu Ability 2    ===>    Rezultat: Neutrel1'HP= 1, Ability 2, cooldown 3, Ability 1, cooldown 3
+Neutrel1 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 42
+Bulbasaur ataca Neutrel1 cu Attack    ===>    Rezultat: Neutrel1'HP= -3, Ability 1, cooldown 2, Ability 2, cooldown 2
+Neutrel1 a murit.
+CASTIGATOR: ====>  
+Bulbasaur
+HP=43, normalAttack=null, specialAttack=6, defense=4, specialDefense=5
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+############## ARENA A ALES BATALIA: Neutrel2 ##############
+
+=========================[Batalia Neutrel2 vs Psyduck]=========================
+-------DESCRIERE PLAYER1:--------
+Psyduck
+HP=56, normalAttack=9, specialAttack=null, defense=4, specialDefense=4
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Psyduck ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 19, Ability 1, cooldown 4
+Neutrel2 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 56
+Psyduck ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 11, Ability 1, cooldown 3
+Neutrel2 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 56
+Psyduck ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 3, Ability 1, cooldown 2
+Neutrel2 ataca Psyduck cu NormalAttack   ===>    Rezultat: Psyduck'HP= 56
+Psyduck ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -5, Ability 1, cooldown 1
+Neutrel2 a murit.
+CASTIGATOR: ====> 
+Psyduck
+HP=57, normalAttack=10, specialAttack=null, defense=5, specialDefense=5
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+=========================[Batalia Neutrel2 vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Bulbasaur
+HP=43, normalAttack=null, specialAttack=6, defense=4, specialDefense=5
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+-------DESCRIERE PLAYER2:-------
+Neutrel2
+HP=20, normalAttack=4, specialAttack=null, defense=1, specialDefense=1
+
+------------------------------------------------------------------------------------
+Bulbasaur ataca Neutrel2 cu Ability 1    ===>    Rezultat: Neutrel2'HP= 15, Ability 1, cooldown 4
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 43
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 10, Ability 1, cooldown 3
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 43
+Bulbasaur ataca Neutrel2 cu Ability 2    ===>    Rezultat: Neutrel2'HP= 6, Ability 2, cooldown 3, Ability 1, cooldown 2
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 43
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= 1, Ability 1, cooldown 1, Ability 2, cooldown 2
+Neutrel2 ataca Bulbasaur cu NormalAttack   ===>    Rezultat: Bulbasaur'HP= 43
+Bulbasaur ataca Neutrel2 cu Attack    ===>    Rezultat: Neutrel2'HP= -4, Ability 1, cooldown 0, Ability 2, cooldown 1
+Neutrel2 a murit.
+CASTIGATOR: ====>  
+Bulbasaur
+HP=44, normalAttack=null, specialAttack=7, defense=5, specialDefense=6
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+############## ARENA A ALES BATALIA: Final_battle ##############
+
+=========================[Batalia Psyduck vs Bulbasaur]=========================
+-------DESCRIERE PLAYER1:--------
+Psyduck
+HP=57, normalAttack=10, specialAttack=null, defense=5, specialDefense=5
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+-------DESCRIERE PLAYER2:-------
+Bulbasaur
+HP=44, normalAttack=null, specialAttack=7, defense=5, specialDefense=6
+Ability1={dmg=6, stun=false, dodge=false, cd=4}
+Ability2={dmg=5, stun=false, dodge=false, cd=3}
+
+
+------------------------------------------------------------------------------------
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 44, Ability 1, cooldown 4
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 55
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 39, Ability 1, cooldown 3
+Bulbasaur ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 54, Ability 1, cooldown 4
+Psyduck ataca Bulbasaur cu Ability 2    ===>    Rezultat: Bulbasaur'HP= 39, Ability 2, cooldown 5, Ability 1, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 52, Ability 1, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 34, Ability 1, cooldown 1, Ability 2, cooldown 4
+Bulbasaur este inghetat.
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 29, Ability 1, cooldown 0, Ability 2, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 50, Ability 1, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 24, Ability 2, cooldown 2
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 48, Ability 1, cooldown 1
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 19, Ability 2, cooldown 1
+Bulbasaur ataca Psyduck cu Ability 2    ===>    Rezultat: Psyduck'HP= 48, Ability 2, cooldown 3, Ability 1, cooldown 0
+Psyduck ataca Bulbasaur cu Ability 1    ===>    Rezultat: Bulbasaur'HP= 19, Ability 1, cooldown 4, Ability 2, cooldown 0
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 46, Ability 2, cooldown 2
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 14, Ability 1, cooldown 3
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 44, Ability 2, cooldown 1
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 9, Ability 1, cooldown 2
+Bulbasaur ataca Psyduck cu Ability 1    ===>    Rezultat: Psyduck'HP= 43, Ability 1, cooldown 4, Ability 2, cooldown 0
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= 4, Ability 1, cooldown 1
+Bulbasaur ataca Psyduck cu Attack    ===>    Rezultat: Psyduck'HP= 41, Ability 1, cooldown 3
+Psyduck ataca Bulbasaur cu Attack    ===>    Rezultat: Bulbasaur'HP= -1, Ability 1, cooldown 0
+Bulbasaur a murit.
+CASTIGATOR: ====>  
+Psyduck
+HP=58, normalAttack=11, specialAttack=null, defense=6, specialDefense=6
+Ability1={dmg=2, stun=false, dodge=false, cd=4}
+Ability2={dmg=2, stun=true, dodge=false, cd=5}
+
+
+CONCLUZIE:
+Red a castigat 1 de batalii
+Cynthia a castigat 2 de batalii
+
+------------------------Cynthia A CASTIGAT------------------------

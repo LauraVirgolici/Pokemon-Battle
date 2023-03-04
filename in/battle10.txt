@@ -1,0 +1,9 @@
+Red 20
+Snorlax (Sword,Vest,Vitamins)
+Bulbasaur (Shield)
+Eevee (Magic Wand)
+
+Cynthia 21
+Bulbasaur (Vest)
+Psyduck (Cape,Sword)
+Vulpix (Shield,Cape)

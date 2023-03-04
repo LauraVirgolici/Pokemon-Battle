@@ -1,0 +1,9 @@
+Blue 20
+Pikachu (Vest)
+Bulbasaur (Shield,Vest)
+Charmander (Magic Wand)
+
+Cynthia 21
+Squirtle (Vest,Sword)
+Snorlax (Sword,Vitamins)
+Vulpix (Cape)

@@ -1,0 +1,9 @@
+Red 20
+Meowth (Sword,Vest,Vitamins)
+Psyduck (Shield)
+Jigglypuff (Magic Wand)
+
+Cynthia 21
+Squirtle (Vest)
+Pikachu (Sword,Vest,Vitamins)
+Vulpix (Cape)
